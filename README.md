@@ -10,7 +10,6 @@ A través de la siguiente visualización de gráficos, nos daremos cuenta de có
 
 Análisis 1: FACTURACIÓN
 
-![Gráfico de facturación por tienda](Analisis 1.png)
-![Gráfico de facturación por tienda](Analisis 1.png)
+![Gráfico de facturación por tienda](Analisis1.png)
 
 Recomendación: Los datos muestran que es recomendable vender la Tienda 4, dado que es la tienda con menor rendimiento económico principalmente, además de ser uno de los que menos cobros por envío tiene y de manejar una pobre calificación por parte de los clientes. Esto la convierte en la candidata ideal para cerrarla y mejor invertir el capital en otros activos.
